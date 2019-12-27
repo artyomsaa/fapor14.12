@@ -227,3 +227,12 @@ button{
     padding-top: 24px;
     padding-bottom: 24px;
 }
+.trygit
+{ background-color: black;
+height: 100px}
+.github{
+    max-width: 500px;
+}
+h5{
+    color: blue;
+}
